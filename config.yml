@@ -8,7 +8,7 @@ RuhohSpec: "2.1"
 # Used for things like RSS that need the full URL to a given resource.
 # This DOES NOT affect any of your paths or links in any way.
 # This DOES NOT configure domain mapping. See post2.ruhoh.com for hosting options.
-production_url: "http://sample.com"
+production_url: "http://people.carleton.edu"
 
 # Intelligently prepends all urls in the system with the given base_path.
 # This allows you to host your blog in a subdirectory of a given website.
@@ -16,7 +16,7 @@ production_url: "http://sample.com"
 #  To host at the path: http://myuniversity.edu/staff/me/~/blog.
 #  set base_path: "/staff/me/~/blog"
 # NOTE: base_path is never added in development mode (for convenience).
-base_path: "/"
+base_path: "/~againerdewar"
 
 # Tell ruhoh which folder will model the "theme"
 twitter :
@@ -71,25 +71,17 @@ asset_pipeline:
 
 widgets :
 
-  analytics :
-    use : google
-    # -- config for google --
-    tracking_id : 'UA-123-12'
-
-    # -- config for getclicky  --
-    # site_id :
-
   comments :
-    use : disqus
+    use : intensedebate
     enable : true
     # -- config for disqus --
-    short_name : jekyllbootstrap # Change This!
+    # short_name : jekyllbootstrap # Change This!
 
     # -- config for livefyre --
     # site_id : 123
 
     # -- config for intensedebate --
-    # account : 123abc
+    account : 5hovikHxAnoaHi7bK1Vl
 
     # -- config for facebook --
     # appid : 123
