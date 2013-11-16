@@ -1,15 +1,11 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Andrew Gainer-Dewar
+tagline: Visiting Assistant Professor of Mathematics, Carleton College
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Andrew Gainer-Dewar
+  email : againerdewar@carleton.edu
+  github : againerdewar
 
 navigation :
-  - archive
-  - tags
-  - categories
-  - pages
-  - about
+  - index
+  - research
+  - teaching
