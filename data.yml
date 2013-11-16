@@ -1,12 +1,10 @@
 title : Andrew Gainer-Dewar, mathematician
-tagline: Visiting Assistant Professor of Mathematics, Carleton College
 author :
   name : Andrew Gainer-Dewar
   email : againerdewar@carleton.edu
   github : againerdewar
 
 navigation :
-  - index
   - research
   - teaching
   - blog
