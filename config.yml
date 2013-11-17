@@ -93,3 +93,7 @@ widgets :
   
   mathjax :
     use : mathjax
+
+  fontloader :
+    use : fontloader
+    families : "'Bitter', 'Source Code Pro'"
