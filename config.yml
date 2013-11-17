@@ -81,8 +81,7 @@ widgets :
     # site_id : 123
 
     # -- config for intensedebate --
-    account : 5hovikHxAnoaHi7bK1Vl
-
+    account : e932abbc8a39098f564ef9f550c020d7
     # -- config for facebook --
     # appid : 123
     # num_posts: 5
