@@ -90,3 +90,6 @@ widgets :
 
   google_prettify :
     linenums : true
+  
+  mathjax :
+    use : mathjax
