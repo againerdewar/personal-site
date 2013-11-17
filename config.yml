@@ -19,7 +19,7 @@ production_url: "http://people.carleton.edu"
 base_path: "/~againerdewar"
 
 # Tell ruhoh which folder will model the "theme"
-twitter :
+agd-bootstrap :
   # Tells ruhoh which collection class to use for this folder.
   # Here we use "theme" which makes this folder the theme.
   use : "theme"
