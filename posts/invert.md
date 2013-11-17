@@ -37,7 +37,7 @@ Many of my best teaching interactions have happened in office hours while talkin
 So what to do?
 I decided to try a textbook-based inverted classroom.
 
-### Impelementation
+### Implementation
 
 In broad strokes, the idea behind my classroom model is simple: students read the text, do homework, get help from me and their peers, and then do more homework.
 This takes place on a rolling schedule.
