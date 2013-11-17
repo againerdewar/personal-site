@@ -8,7 +8,7 @@ I am interested in a variety of non-traditional teaching methodologies which enc
 So far, this has taken a few forms:
 
 - Low-stakes writing projects, typically in the model of those in the excellent MAA book "Writing Projects for Mathematics Courses"
-- Inverted classroom models, typically based on reading a textbook and working on exercises in groups
+- Inverted classroom models, typically based on reading a textbook and working on exercises in groups (see my [posts](tags#inverted-ref) on the subject)
 
 ### Courses taught
 
