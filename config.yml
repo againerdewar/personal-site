@@ -96,4 +96,4 @@ widgets :
 
   fontloader :
     use : fontloader
-    families : "'Source Code Pro', 'Raleway'"
+    families : "'Source Sans Pro', 'Raleway'"
