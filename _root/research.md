@@ -16,14 +16,18 @@ The theoretical prerequisites are (perhaps surprisingly!) low, making it especia
 
 ### Publications
 #### Papers in print
-- "[$\Gamma$-species and the enumeration of $k$-trees](//www.combinatorics.org/ojs/index.php/eljc/article/view/v19i4p45)", Electronic Journal of Combinatorics, Volume 19, Issue 4, P45. Also [available](//arxiv.org/abs/1208.5993) on the arXiv.
+- "[$\Gamma$-species and the enumeration of $k$-trees](//www.combinatorics.org/ojs/index.php/eljc/article/view/v19i4p45)", Electronic Journal of Combinatorics, Volume 19, Issue 4, P45.
+  [Available](//arxiv.org/abs/1208.5993) on the arXiv.
 
 #### Papers under review
 - "Counting unlabeled $k$-trees", with I. Gessel.
+  [Available](//arxiv.org/abs/1309.1429) on the arXiv.
 - "On the enumeration of bipartite blocks", with I. Gessel.
+  [Available](//arxiv.org/abs/1304.0139) on the arXiv.
 
 #### Papers in preparation
 - "Enumeration of labeled and unlabeled polygonal and $k$-gonal 2-trees and succulents by vertices".
+  [Available](//arxiv.org/abs/1309.4481) on the arXiv.
 
 ### Undergraduate research
 I attended the [Valparaiso Experience in Research by Undergraduate Mathematicians](//www.valpo.edu/mcs/verum/) ("VERUM"), an NSF-sponsored REU at Valparaiso University.
