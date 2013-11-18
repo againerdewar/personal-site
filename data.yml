@@ -8,3 +8,7 @@ navigation :
   - research
   - teaching
   - blog
+
+blog :
+  title : Asymptotically almost surely
+  tagline : A mathematician in sequence

@@ -32,6 +32,7 @@ _root:
     enable: false
 
 posts:
+  layout : blogpost
   sort: ["date", "desc"]
   permalink: "/:categories/:title/"
   summary_lines: 20

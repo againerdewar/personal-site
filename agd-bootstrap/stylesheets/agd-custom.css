@@ -62,6 +62,21 @@ hr {
     border-color: #223748;
 }
 
+.light {
+    font-weight: 200;
+}
+
+.no-hyphens {
+    -ms-word-break: none;
+    word-break: none;
+    
+    word-break: none;
+    
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    hyphens: none;
+}
+
 /* Override some Bootstrap settings that conflict with TypePlate */
 .page-header {
     margin-bottom: 0;
