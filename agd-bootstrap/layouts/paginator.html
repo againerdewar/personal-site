@@ -3,7 +3,8 @@ layout : default
 ---
 
 <div class="row-fluid">
-  <div class="span12">
+  <div class="span1 content-indent"></div>
+  <div class="span11 page-content">
     {{#collection.paginator}}
       <div class="{{ collection.resource_name}}">
         <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>
@@ -15,7 +16,7 @@ layout : default
         </div>
       </div>
     {{/collection.paginator}}
-    
+
     <div class="pagination">
       <ul>
       {{#collection.paginator_navigation}}

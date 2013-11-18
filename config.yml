@@ -96,4 +96,4 @@ widgets :
 
   fontloader :
     use : fontloader
-    families : "'Bitter', 'Source Code Pro'"
+    families : "'Source Code Pro', 'Raleway'"

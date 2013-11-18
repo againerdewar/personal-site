@@ -1,3 +1,5 @@
+/* Color scheme: http://colorschemedesigner.com/#3x61TofiJw0w0 */
+
 /* Set up local things like font families */
 
 html, body, p, ul {
@@ -6,16 +8,65 @@ html, body, p, ul {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Bitter', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
 }
 
+/* Override bootstrap container widths */
 body {
-  background-color: #eeeeee;
+  background-color: #223748;
 }
 
-/* Override bootstrap container widths */
 .container-narrow {
-    max-width: 60%;
+    max-width: 50%;
 }
+
+/* Implement slate layout for body */
+.content-wrapper {
+    background-color: #eee;
+    padding-right: 5%;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: .5%;
+    margin-top: 75px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+.navbar-inner {
+    background-image: linear-gradient(to bottom, #eee, #dadada)
+}
+
+.page-content {
+    box-shadow: -15px 0 0 #ca9577;
+    padding-left: 4%;
+}
+
+.brand {
+    color: #444444 !important;
+    font-family: 'Raleway';
+    font-weight: 400 !important;
+    font-variant: small-caps;
+}
+
+.nav {
+    font-variant: small-caps;
+}
+
+a, a.hover {
+    color: #6b92b0;
+}
+
+hr {
+    color: #223748;
+    border-color: #223748;
+}
+
+/* Override some Bootstrap settings that conflict with TypePlate */
+.page-header {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+
 
