@@ -97,4 +97,4 @@ widgets :
 
   fontloader :
     use : fontloader
-    families : "'Source Sans Pro', 'Raleway'"
+    families : "'Source Sans Pro', 'Raleway', 'Rock Salt', 'Nothing You Could Do'"

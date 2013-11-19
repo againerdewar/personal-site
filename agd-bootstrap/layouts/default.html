@@ -21,7 +21,11 @@
       google_prettify/sons-of-obsidian.css
       agd-custom.css
       typeplate.css
+      slabtext.css
     {{/ stylesheets.load }}
+
+    <!-- Le jQuery -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -31,8 +35,14 @@
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
   -->
 
-  {{{ widgets.fontloader }}}
-  {{{ widgets.mathjax }}}
+    <!-- Le widget loads -->
+    {{{ widgets.fontloader }}}
+    {{{ widgets.mathjax }}}
+
+    <!-- Le Javascript loads -->
+    {{# javascripts.load }}
+      jquery.slabtext.js
+    {{/ javascripts.load }}
   </head>
 
   <body>
@@ -71,5 +81,9 @@
     {{{ widgets.google_prettify }}}
     {{{ widgets.analytics }}}
 
+    <!-- Run SlabText -->
+    <script>
+      jQuery(".doSlab").slabText()
+    </script>
   </body>
 </html>

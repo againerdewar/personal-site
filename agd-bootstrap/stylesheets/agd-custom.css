@@ -44,13 +44,13 @@ body {
 
 .brand {
     color: #444444 !important;
-    font-family: 'Raleway';
     font-weight: 400 !important;
-    font-variant: small-caps;
+    font-family: Raleway;
 }
 
 .nav {
-    font-variant: small-caps;
+    font-family: Raleway;
+    font-weight: 700;
 }
 
 a, a.hover {
@@ -60,10 +60,6 @@ a, a.hover {
 hr {
     color: #223748;
     border-color: #223748;
-}
-
-.light {
-    font-weight: 200;
 }
 
 .no-hyphens {
@@ -76,6 +72,21 @@ hr {
     -moz-hyphens: none;
     hyphens: none;
 }
+
+#blog-title {
+    font-family: Rock Salt;
+}
+
+#blog-tagline {
+    text-transform: lowercase;
+    font-family: Nothing You Could Do;
+    font-weight: 100;
+}
+
+#blog-title-bucket {
+    margin-bottom: 2eM;
+}
+
 
 /* Override some Bootstrap settings that conflict with TypePlate */
 .page-header {
