@@ -11,5 +11,10 @@ layout : default
   <div class="span11 page-content">
     {{> page_title_small }}
     {{{ page.content }}}
+    {{> blog_post_footer }}
+    <hr>
   </div>
 </div>
+
+<!-- Include comments widget -->
+{{{ widgets.comments }}}
