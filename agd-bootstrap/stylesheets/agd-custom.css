@@ -45,11 +45,11 @@ body {
 .brand {
     color: #444444 !important;
     font-weight: 400 !important;
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
 }
 
 .nav {
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
 }
 
@@ -74,12 +74,12 @@ hr {
 }
 
 #blog-title {
-    font-family: Rock Salt;
+    font-family: 'Rock Salt', serif;
 }
 
 #blog-tagline {
     text-transform: lowercase;
-    font-family: Nothing You Could Do;
+    font-family: 'Nothing You Could Do', serif;
     font-weight: 100;
 }
 
