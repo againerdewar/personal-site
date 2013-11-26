@@ -87,6 +87,29 @@ hr {
     margin-bottom: 2eM;
 }
 
+figure {
+    background: #ccc;
+    border: 1px solid;
+    border-radius: .3eM; 
+}
+
+figure img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    font-style: italic;
+    text-align: center;
+}
+
+figcaption .figlabel {
+    font-style: normal;
+    font-weight: bold;
+    font-shape: small-caps;
+}
+
 
 /* Override some Bootstrap settings that conflict with TypePlate */
 .page-header {
