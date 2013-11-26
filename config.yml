@@ -25,7 +25,6 @@ agd-bootstrap :
   use : "theme"
 
 _root:
-  summary_lines: 20
   rss:
     enable: false
   paginator:
@@ -35,7 +34,7 @@ posts:
   layout : blogpost
   sort: ["date", "desc"]
   permalink: "/:categories/:title/"
-  summary_lines: 20
+  summary_stop_at_header: true
   latest: 5
   rss:
     enable: true
@@ -91,7 +90,7 @@ widgets :
 
   google_prettify :
     linenums : true
-  
+
   mathjax :
     use : mathjax
 
