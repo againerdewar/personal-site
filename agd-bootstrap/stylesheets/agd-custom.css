@@ -12,6 +12,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
+.term {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.graph {
+    height: 30eM;
+}
+
 /* Override bootstrap container widths */
 body {
   background-color: #223748;
@@ -93,7 +102,7 @@ figure {
     border-radius: .3eM; 
 }
 
-figure img {
+figure img, figure .graph {
     display: block;
     margin-left: auto;
     margin-right: auto;
