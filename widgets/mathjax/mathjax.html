@@ -9,7 +9,12 @@ MathJax.Hub.Config({
     skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
   },
   messageStyle: "none",
-  "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+  "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] },
+  TeX: {
+    Macros: {
+      specname: ["\\mathcal{#1}",1]
+    }
+  }
 });
 </script>
 <script type="text/javascript"
