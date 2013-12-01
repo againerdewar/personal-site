@@ -26,8 +26,31 @@ body {
   background-color: #223748;
 }
 
-.container-narrow {
+.narrow {
     max-width: 60em;
+    margin: auto;
+}
+
+/* Implement shiny navbar */
+.navbar {
+    background-image: linear-gradient(to bottom, #eee, #dadada)
+}
+
+.navbar a {
+    color: #444444;
+}
+
+.navbar-brand {
+    font-family: 'Raleway', sans-serif;
+    text-shadow: 0px 1px 0px rgb(255, 255, 255);
+}
+
+.nav {
+    font-family: 'Raleway', sans-serif;
+}
+
+.nav li a.active {
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25) inset;
 }
 
 /* Implement slate layout for body */
@@ -42,24 +65,9 @@ body {
     border-radius: 10px;
 }
 
-.navbar-inner {
-    background-image: linear-gradient(to bottom, #eee, #dadada)
-}
-
 .page-content {
     box-shadow: -15px 0 0 #ca9577;
     padding-left: 4%;
-}
-
-.brand {
-    color: #444444 !important;
-    font-weight: 400 !important;
-    font-family: 'Raleway', sans-serif;
-}
-
-.nav {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
 }
 
 a, a.hover {
@@ -119,12 +127,8 @@ figcaption .figlabel {
     font-shape: small-caps;
 }
 
-
 /* Override some Bootstrap settings that conflict with TypePlate */
 .page-header {
     margin-bottom: 0;
     padding-bottom: 0;
 }
-
-
-

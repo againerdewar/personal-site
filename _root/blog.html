@@ -5,7 +5,10 @@ layout: blogpage
 
 {{# posts.paginator }}
 <div class="post">
-  <h3 class="title row-fluid"><a class="span8" href="{{url}}">{{title}}</a> <span class="span4">{{ date }}</span></h3>
+  <h3 class="title row">
+    <span class="col-sm-8">{{title}}</span>
+    <span class="col-sm-4 text-right">{{ date }}</span>
+  </h3>
 
   {{{ summary }}}
 
