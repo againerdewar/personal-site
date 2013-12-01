@@ -21,16 +21,6 @@ h1, h2, h3, h4, h5, h6 {
     height: 30eM;
 }
 
-/* Override bootstrap container widths */
-body {
-  background-color: #223748;
-}
-
-.narrow {
-    max-width: 60em;
-    margin: auto;
-}
-
 /* Implement shiny navbar */
 .navbar {
     background-image: linear-gradient(to bottom, #eee, #dadada)
@@ -54,6 +44,15 @@ body {
 }
 
 /* Implement slate layout for body */
+body {
+  background-color: #223748;
+}
+
+.narrow {
+    max-width: 60em;
+    margin: auto;
+}
+
 .content-wrapper {
     background-color: #eee;
     padding-right: 5%;
