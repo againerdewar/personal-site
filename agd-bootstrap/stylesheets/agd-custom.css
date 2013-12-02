@@ -136,6 +136,30 @@ figcaption .figlabel {
     font-shape: small-caps;
 }
 
+/* Set up very fancy block quote */
+/* From http://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/ */
+blockquote {
+  background: #ffffff;
+  border-left: 10px solid #223748;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  border-radius: 1em;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
+}
+
+blockquote:before {
+  color: #223748;
+  content: "\201C";
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+    display inline;
+}
+
 /* Override some Bootstrap settings that conflict with TypePlate */
 .page-header {
     margin-bottom: 0;
