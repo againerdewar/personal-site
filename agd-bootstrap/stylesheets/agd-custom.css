@@ -3,13 +3,14 @@
 /* Set up local things like font families */
 
 html, body, p, ul {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 400;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-variant: small-caps;
 }
 
 .term {
@@ -19,6 +20,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .graph {
     height: 30eM;
+}
+
+#blog-title-bucket h1, #blog-title-bucket h2, #blog-title-bucket h3, #blog-title-bucket h4, #blog-title-bucket h5, #blog-title-bucket h6 {
+    font-variant: normal; !important
 }
 
 /* Implement shiny navbar */
@@ -31,12 +36,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-brand {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-weight: 200;
     text-shadow: 0px 1px 0px rgb(255, 255, 255);
+    font-variant: small-caps;
 }
 
 .nav {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-weight: 200;
+    font-variant: small-caps;
 }
 
 .nav li a.active {
