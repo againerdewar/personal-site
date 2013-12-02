@@ -25,7 +25,7 @@ One student may want to run through a given topic several times, digging deeply 
 A lecture cannot possibly respond to all these needs at the same time.
 
 1. Despite the lecturer's best efforts, students may never be completely comfortable asking questions in class.
-They may feel that their question is "stupid" or that their peers will think less of them for asking it; they may not want to interrupt the flow of the lecture; they may not even know they *have* a question until the opportunity has passed.
+They may feel that their question is <q>stupid</q> or that their peers will think less of them for asking it; they may not want to interrupt the flow of the lecture; they may not even know they *have* a question until the opportunity has passed.
 This is especially difficult for slower students, whose mathematical confidence and interest suffers needlessly as a result.
 
 1. Much of the real learning happens when students work on their homework after class.
@@ -44,9 +44,9 @@ This takes place on a rolling schedule.
 For each slice of material, students go through the following process, closely modeled on [David Pengelley](http://www.math.nmsu.edu/~davidp/)'s system at NMSU:
 
 1. Prior to the class meeting, read the assigned section of the textbook.
-   I post a "reading guide" along with the assignment, which includes various notes and annotations to accompany the text, guiding students to the most important material and helping them navigate the writing.
+   I post a <q>reading guide</q> along with the assignment, which includes various notes and annotations to accompany the text, guiding students to the most important material and helping them navigate the writing.
 
-1. During the reading, write a "reflective response" which answers several questions:
+1. During the reading, write a <q>reflective response</q> which answers several questions:
   * What were the main mathematical topics and ideas of this section?
   * What did you find particularly confusing or difficult to undersatnd in this section?
   * What did you find particularly surprising, exciting, or unexpected in this section?
@@ -68,7 +68,7 @@ For each slice of material, students go through the following process, closely m
 
    While students are working on the exercises, I wander around the room, answering questions and listening to their conversations.
 
-   Based on the information in the online responses, I may give a brief "mini-lecture" at the start of class which responds to specific questions or concerns.
+   Based on the information in the online responses, I may give a brief <q>mini-lecture</q> at the start of class which responds to specific questions or concerns.
    These never last more than a few minutes.
 
 
@@ -84,17 +84,23 @@ I just tell my students to go read the book and do homework.
 ### Response and results
 Perhaps the most telling sign of the success of this system is one that's simple to measure: ***my students love it.***
 They've discovered how satisfying it is to earn their mathematical success:
-> Oddly enough, I actually had fun doing this homework.
-> I started out frustrated because I didn't instantly understand the material, but I found that it was gratifying to try a problem I wasn't entirely sure I could do and get it right in the end.
+<blockquote>
+Oddly enough, I actually had fun doing this homework.
+I started out frustrated because I didn't instantly understand the material, but I found that it was gratifying to try a problem I wasn't entirely sure I could do and get it right in the end.
+</blockquote>
 
 Students who might otherwise have been left behind are able to learn at their own pace, and these students in particular are prospering:
-> I really like the class structure and how you emphasize the importance of asking questions.
-> I am usually a shy student but because the open environment you've created in the classroom, I feel that I can ask a question for clarification if I ever need to (thanks, and hopefully I will ask a question!).
+<blockquote>
+I really like the class structure and how you emphasize the importance of asking questions.
+I am usually a shy student but because the open environment you've created in the classroom, I feel that I can ask a question for clarification if I ever need to (thanks, and hopefully I will ask a question!).
+</blockquote>
 
 Working in small, self-selected groups has given students the space to find and digest answers to any lingering questions from the homework:
-> It is exciting to see calculus become more and more applicable!
-> […] I feel good about the work I have [been] doing in this class.
-> I feel like I am cementing the ideas because we actually have time in class to discuss pre-class exercises and get peer-led corrections.
+<blockquote>
+It is exciting to see calculus become more and more applicable!
+[…] I feel good about the work I have [been] doing in this class.
+I feel like I am cementing the ideas because we actually have time in class to discuss pre-class exercises and get peer-led corrections.
+</blockquote>
 
 Moreover, my students are learning calculus at a really remarkable level.
 Their performance on tests and graded homeworks is dramatically better than I've seen in previous terms at Carleton, and I've observed a substantial (but harder-to-quantify) increase in inquiries about the major and general mathematical interest.
