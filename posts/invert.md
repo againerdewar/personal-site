@@ -41,7 +41,7 @@ I decided to try a textbook-based inverted classroom.
 
 In broad strokes, the idea behind my classroom model is simple: students read the text, do homework, get help from me and their peers, and then do more homework.
 This takes place on a rolling schedule.
-For each slice of material, students go through the following process, closely modeled on [David Pengelley](http://www.math.nmsu.edu/~davidp/)'s system at NMSU:
+For each slice of material, students go through the following process, closely modeled on [David Pengelley](http://www.math.nmsu.edu/~davidp/)'s system at <span class="initalism">NMSU</span>:
 
 1. Prior to the class meeting, read the assigned section of the textbook.
    I post a <q>reading guide</q> along with the assignment, which includes various notes and annotations to accompany the text, guiding students to the most important material and helping them navigate the writing.
@@ -56,7 +56,7 @@ For each slice of material, students go through the following process, closely m
   * How do you feel about the amount of work you spent on this section and on the course so far?
   * Is there anything else you would like me to know before class starts?
 
-   These are submitted privately to me through Carleton's CMS and are due six hours before the start of class.
+   These are submitted privately to me through Carleton's <span class="initialism">CMS</span> and are due six hours before the start of class.
    I read them over and use them to guide my preparation.
 
 1. After the reading, work through a series of pre-class exercises.

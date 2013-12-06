@@ -30,7 +30,7 @@ The theoretical prerequisites are (perhaps surprisingly!) low, making it especia
   [Available](//arxiv.org/abs/1309.4481) on the arXiv.
 
 ### Undergraduate research
-I attended the [Valparaiso Experience in Research by Undergraduate Mathematicians](//www.valpo.edu/mcs/verum/) ("VERUM"), an NSF-sponsored REU at Valparaiso University.
+I attended the [Valparaiso Experience in Research by Undergraduate Mathematicians](//www.valpo.edu/mcs/verum/) ("<span class="initialism">VERUM</span>"), an <span class="initialism">NSF</span>-sponsored <span class="initialism">REU</span> at Valparaiso University.
 I also completed a research thesis for honors in the [mathematics department](//www.mercer.edu/math/) at [Mercer University](//www.mercer.edu).
 Both were important and formative experiences in my mathematics education, and I believe such experiences should be available to any undergraduate who is interested in mathematics.
 

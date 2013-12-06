@@ -13,7 +13,7 @@ So far, this has taken a few forms:
 ### Courses taught
 
 #### Current Courses
-In the fall term of 2013–2014, I am teaching a section of MATH111 (Calculus I) using a textbook-based inverted classroom.
+In the fall term of 2013–2014, I am teaching a section of <span class="initialism">MATH111</span> (Calculus I) using a textbook-based inverted classroom.
 In addition, I am offering a freshman seminar on social choice as part of Carleton's "[Argument and Inquiry](//apps.carleton.edu/curricular/aiseminars/)" program.
 
 #### Past and upcoming courses

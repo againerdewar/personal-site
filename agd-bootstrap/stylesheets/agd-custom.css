@@ -26,6 +26,12 @@ h1, h2, h3, h4, h5, h6 {
     font-variant: normal; !important
 }
 
+/* Set initialisms in small-caps */
+.initialism {
+    font-variant: small-caps;
+    text-transform: lowercase;
+}
+
 /* Implement shiny navbar */
 .navbar {
     background-image: linear-gradient(to bottom, #eee, #dadada)
