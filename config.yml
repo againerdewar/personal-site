@@ -96,4 +96,4 @@ widgets :
 
   fontloader :
     use : fontloader
-    families : "'Rock Salt', 'Nothing You Could Do', 'Lato:200,400,700'"
+    families : "'Rock Salt', 'Nothing You Could Do', 'Rosario:400,700'"

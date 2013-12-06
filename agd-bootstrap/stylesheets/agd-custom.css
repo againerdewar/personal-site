@@ -3,12 +3,12 @@
 /* Set up local things like font families */
 
 html, body, p, ul {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Rosario', sans-serif;
   font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Rosario', sans-serif;
   font-weight: 700;
   font-variant: small-caps;
 }
@@ -36,15 +36,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-brand {
-    font-family: 'Lato', sans-serif;
-    font-weight: 200;
+    font-family: 'Rosario', sans-serif;
+    font-weight: 400;
     text-shadow: 0px 1px 0px rgb(255, 255, 255);
     font-variant: small-caps;
 }
 
 .nav {
-    font-family: 'Lato', sans-serif;
-    font-weight: 200;
+    font-family: 'Rosario', sans-serif;
+    font-weight: 400;
     font-variant: small-caps;
 }
 
