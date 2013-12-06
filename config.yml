@@ -91,9 +91,5 @@ widgets :
   google_prettify :
     linenums : true
 
-  mathjax :
-    use : mathjax
-
   fontloader :
-    use : fontloader
     families : "'Rock Salt', 'Nothing You Could Do', 'Rosario:400,700'"
