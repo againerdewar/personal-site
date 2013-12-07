@@ -120,7 +120,7 @@ hr {
     margin-bottom: 2eM;
 }
 
-figure, .theorem, .lemma, .proof, .definition {
+figure, .theorem, .lemma, .proof, .definition, .observation {
     background: #ccc;
     border: 1px solid;
     border-radius: .3eM; 

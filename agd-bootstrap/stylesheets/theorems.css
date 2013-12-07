@@ -49,3 +49,14 @@
     font-style: normal;
 }
 
+.observation {
+    display: block;
+    margin: 1em 0;
+    padding: .5em;
+    font-style: normal;
+}
+.observation:before {
+    content: "Observation.";
+    font-weight: bold;
+    font-style: normal;
+}
