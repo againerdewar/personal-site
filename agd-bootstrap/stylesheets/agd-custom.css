@@ -120,7 +120,7 @@ hr {
     margin-bottom: 2eM;
 }
 
-figure, .theorem, .lemma, .proof, .definition, .observation {
+figure {
     background: #ccc;
     border: 1px solid;
     border-radius: .3eM; 
@@ -143,9 +143,9 @@ figcaption .figlabel {
     font-shape: small-caps;
 }
 
-/* Set up very fancy block quote */
+/* Set up very fancy block quote and theorems */
 /* From http://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/ */
-blockquote {
+blockquote, .theorem, .lemma, .proof, .definition, .observation {
   background: #ffffff;
   border-left: 10px solid #223748;
   margin: 1.5em 10px;
