@@ -194,7 +194,8 @@ jQuery.fn.springy = function(params) {
 			arrowWidth = 1 + ctx.lineWidth;
 			arrowLength = 8;
 
-			var directional = (edge.data.directional !== undefined) ? edge.data.directional : true;
+                        // Change from original: edges now default to undirected
+			var directional = (edge.data.directed == undefined) ? edge.data.directed : false;
 
 			// line
 			var lineEnd;
