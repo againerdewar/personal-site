@@ -92,4 +92,4 @@ widgets :
     linenums : true
 
   fontloader :
-    families : "'Rock Salt', 'Nothing You Could Do', 'Rosario:400,700'"
+    families : "'Rock Salt', 'Nothing You Could Do', 'Rosario:400,700', 'Inconsolata'"

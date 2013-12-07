@@ -28,6 +28,12 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: lowercase;
 }
 
+/* Style code */
+code {
+    font-family: 'Inconsolata', monospace;
+    background-color: inherit;
+}
+
 /* Implement shiny navbar */
 .navbar {
     background-image: linear-gradient(to bottom, #eee, #dadada)
