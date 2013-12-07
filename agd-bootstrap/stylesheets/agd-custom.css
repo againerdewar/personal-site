@@ -18,10 +18,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 
-.graph {
-    height: 30eM;
-}
-
 #blog-title-bucket h1, #blog-title-bucket h2, #blog-title-bucket h3, #blog-title-bucket h4, #blog-title-bucket h5, #blog-title-bucket h6 {
     font-variant: normal; !important
 }
@@ -118,6 +114,13 @@ hr {
 
 #blog-title-bucket {
     margin-bottom: 2eM;
+}
+
+/* Style figures and graphs */
+
+.graph {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 figure {
