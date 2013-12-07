@@ -46,10 +46,8 @@ Thus, for example, we don't try to find some underlying general structure that t
 <div class="row">
   <div class="col-sm-6">
     <figure>
-      <div class="graph">
-        <canvas id="unlgraphex1"></canvas>
-      </div>
-      <script>
+    <canvas id="unlgraphex1" class="graph"></canvas>
+    <script>
         // make a new graph
         var graph = new Springy.Graph();
 
@@ -71,9 +69,7 @@ Thus, for example, we don't try to find some underlying general structure that t
   </div>
   <div class="col-sm-6">
     <figure>
-      <div class="graph">
-        <canvas id="unlgraphex2"></canvas>
-      </div>
+      <canvas id="unlgraphex2" class="graph"></canvas>
       <script>
         // make a new graph
         var graph = new Springy.Graph();
