@@ -4,7 +4,7 @@ date: '2013-12-05'
 tagline: 'Or, why graph theory needs functors'
 categories: [ 'research' ]
 tags: [ 'combinatorics', 'eunmeration', 'whatisa', 'species' ]
-permalink: /research/what-is-a-combinatorial-species-1
+permalink: /blog/research/what-is-a-combinatorial-species-1
 widgets :
   springy :
     enable : true

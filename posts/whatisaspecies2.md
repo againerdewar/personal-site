@@ -4,7 +4,7 @@ date: '2013-12-07'
 tagline: 'Or, how to count with functors'
 categories: [ 'research' ]
 tags: [ 'combinatorics', 'eunmeration', 'whatisa', 'species' ]
-permalink: /research/what-is-a-combinatorial-species-2
+permalink: /blog/research/what-is-a-combinatorial-species-2
 widgets :
   sagecell :
     enable : true
@@ -12,7 +12,7 @@ widgets :
     enable : true
 ---
 
-[Last time](/research/what-is-a-combinatorial-species-1), we saw how the language of category theory could inform our understanding of combinatorial structures.
+[Last time](/blog/research/what-is-a-combinatorial-species-1), we saw how the language of category theory could inform our understanding of combinatorial structures.
 Specifically, we considered the "species of graphs" $\specname{G}$, which turns a set $A$ of labels into the set $\specname{G} [A]$ of graphs with vertex set $A$ and transforms a set bijection $\sigma: A \to B$ into the map $\specname{G} [\sigma]: \specname{G} [A] \to \specname{G} [B]$ which sends each graph to its relabeling under $\sigma$.
 Conceptually, this shifts our attention from individual graphs to the *process* by which graphs are assembled out of their vertex sets.
 
