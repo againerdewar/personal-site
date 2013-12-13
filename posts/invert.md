@@ -7,6 +7,8 @@ categories: [ 'teaching' ]
 tags: [ 'calculus', 'inverted', 'methodology', 'NExT' ]
 ---
 
+***Update: check out the [followup](/blog/teaching/inverting-the-classroom-followup) to this post to see more about how my students responded to this course.***
+
 This term, I inverted a section of Calculus I here at Carleton.
 The results have been extraordinary; my students are asking great questions and reporting significantly increased interest and confidence, enrollment into Calculus II next term is robust, and *not a single student failed either midterm exam!*
 
