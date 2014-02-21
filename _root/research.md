@@ -13,6 +13,7 @@ The theoretical prerequisites are (perhaps surprisingly!) low, making it especia
 - In a forthcoming paper co-authored with my Ph.D. adviser Ira Gessel, we enumerate unlabeled bipartite blocks.
 - In another forthcoming paper with Ira Gessel, we enumerate unlabeled $k$-trees using a different structural approach than that applied in my dissertation.
 - I am currently preparing a paper (available as a preprint below) in which I enumerate unlabeled polygonal and $k$-gonal 2-trees.
+- I am currently preparing a paper (available as a preprint below) in which I develop the algebraic and categorical theory of $\Gamma$-species and connect it to classical Pólya-theoretic results.
 
 ### Publications
 #### Papers in print
@@ -28,6 +29,8 @@ The theoretical prerequisites are (perhaps surprisingly!) low, making it especia
 #### Papers in preparation
 - "Enumeration of labeled and unlabeled polygonal and $k$-gonal 2-trees and succulents by vertices".
   [Available](//arxiv.org/abs/1309.4481) on the arXiv.
+- "Pólya theory for species with an equivariant group action".
+  [Available](//arxiv.org/abs/1401.6202) on the arXiv.
 
 ### Undergraduate research
 I attended the [Valparaiso Experience in Research by Undergraduate Mathematicians](//www.valpo.edu/mcs/verum/) ("<span class="initialism">VERUM</span>"), an <span class="initialism">NSF</span>-sponsored <span class="initialism">REU</span> at Valparaiso University.
