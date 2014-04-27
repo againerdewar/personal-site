@@ -1,7 +1,7 @@
 ---
 title: On interacting with LaTeX
 date: '2013-12-12'
-categories: [ 'teaching' ]
+categories: [ 'latex' ]
 tags: [ 'latex', 'software', 'rant' ]
 widgets :
   sagecell :
