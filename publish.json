@@ -1,0 +1,5 @@
+{
+    "rsync": {
+    	"command" : "rsync compiled/gainerdewar/. -avz --delete --exclude .git gainerdewar@math.hws.edu:www/"
+    }
+}
