@@ -14,12 +14,13 @@ So far, this has taken a few forms:
 ### Courses taught
 
 #### Current Courses
-In the fall term of 2013–2014, I am teaching a section of <span class="initialism">MATH111</span> (Calculus I) using a textbook-based inverted classroom.
-In addition, I am offering a freshman seminar on social choice as part of Carleton's "[Argument and Inquiry](//apps.carleton.edu/curricular/aiseminars/)" program.
+In the spring term of 2014–2015, I am teaching a section of <span class="initialism">MATH111</span> (Calculus I) using a textbook-based inverted classroom.
+In addition, I am offering a section of MATH-110 <q>Discovering in Mathematics</q> focusing on the mathematics of puzzles and games.
 
 #### Past and upcoming courses
 - Precalculus (Fall 2008)
-- Calculus I (Spring 2009, Fall 2012, Winter 2012, Fall 2013, Winter 2013)
+- Calculus I (Spring 2009, Fall 2012, Winter 2012, Fall 2013, Winter 2013, Fall 2014, Spring 2014)
 - Calculus II (Spring 2010, Spring 2013, Winter 2014, Spring 2014)
 - Linear Algebra (Fall 2009, Spring 2013)
 - "The Mathematics of Democracy" freshman seminar (Fall 2013)
+- "Discovering in Mathematics: Puzzles and Games" (Spring 2015)
